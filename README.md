@@ -2,7 +2,13 @@
 
 ## Requierments
 
-Before start you must remove the legacy `docker-compose` command. For example found it with `which docker-compose` then `rm -f {docker-compose-path}`
+Before start you must remove the legacy `docker-compose` command. For example found it with 
+
+```shell
+which docker-compose` 
+```
+
+then use `rm -f {docker-compose-path}` to remove it.
 
 ## Install
 

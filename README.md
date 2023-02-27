@@ -10,6 +10,13 @@ which docker-compose
 
 then use `sudo rm -f {docker-compose-path}` to remove it.
 
+Than you must install the Docker Compose plugin with the following
+
+```shell
+sudo apt-get update
+sudo apt-get install docker-compose-plugin
+```
+
 ## Install
 
 ### Ubuntu

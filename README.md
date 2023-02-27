@@ -9,6 +9,12 @@ Before start you must remove the legacy `docker-compose` command. For example fo
 ### Ubuntu
 
 ```shell
+$ sudo curl -sL https://www.javanile.org/docker-compose/docker-compose -o /usr/local/bin/docker-compose
+$ sudo chmod +x /usr/local/bin/docker-compose
+```
+
+```shell
+https://www.javanile.org/docker-compose/docker-compose
 $ sudo curl -sL https://raw.githubusercontent.com/javanile/docker-compose/main/docker-compose -o /usr/local/bin/docker-compose
 $ sudo chmod +x /usr/local/bin/docker-compose
 ```

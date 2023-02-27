@@ -15,9 +15,8 @@ then use `rm -f {docker-compose-path}` to remove it.
 ### Ubuntu
 
 ```shell
-https://www.javanile.org/docker-compose/docker-compose
-$ sudo curl -sL https://raw.githubusercontent.com/javanile/docker-compose/main/docker-compose -o /usr/local/bin/docker-compose
-$ sudo chmod +x /usr/local/bin/docker-compose
+sudo curl -sL https://raw.githubusercontent.com/javanile/docker-compose/main/docker-compose -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
 ```
 
 ## License

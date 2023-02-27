@@ -22,10 +22,3 @@ sudo chmod +x /usr/local/bin/docker-compose
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
-
-
-
-```shell
-$ ls
-bin/ usr/ ...
-```
